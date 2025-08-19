@@ -1,1 +1,3 @@
+![Static Badge](https://img.shields.io/badge/build-passing-brightgreen?style=flat&logo=appveyor&logoColor=voilet&logoSize=auto&label=java&labelColor=abcdef&color=fedcba&cacheSeconds=3600)
+
 this is a demo
